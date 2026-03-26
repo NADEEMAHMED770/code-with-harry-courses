@@ -1,0 +1,25 @@
+Basic
+1.	What does the print() function do?
+    It Shows the output on screen 
+2.	Why are quotes mandatory for text?
+    quotes tells the python that this is string not command
+Intermediate
+3.	What will be the output of:
+print("A")
+print("B")
+print("C")
+A 
+B 
+C 
+4.	What is the difference between program code and output?
+    Program Code means a logic which is written in a file Output is the final result of this logic 
+Advanced
+5.	Write a program that prints:
+o	Your name
+o	Your goal
+o	One reason why you chose AI
+print("I am Nadeem Ahmed")
+print("I am Learning Python")
+print("I chosed AI because it is the future")
+6.	Why is execution order critical in programming?
+    Because Programming Languages are executed at once or interpreted line by line 

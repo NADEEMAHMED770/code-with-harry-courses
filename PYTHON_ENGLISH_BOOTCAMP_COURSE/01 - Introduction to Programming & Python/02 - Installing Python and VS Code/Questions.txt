@@ -1,0 +1,15 @@
+Basic
+1.	What is the role of Python vs VS Code?
+    Python understands the .py files and runs it while VS Code is an editor in which we write these .py files
+2.	Why is “Add Python to PATH” important?
+    “Add Python to PATH" is important because it connects our VS Code and others tools like terminal with python 
+Intermediate
+3.	What is a Python interpreter and why is >>> shown?
+    Python interpreter is a tool that executes the python files line by line and it i shown as  >>> 
+4.	Explain how VS Code executes a Python file.
+    We write a .py file then runs this in vs code vs code sends this file to interpreter and the interpreter executes this file and shows output on screen
+Advanced
+5.	What problems can occur if VS Code is using the wrong Python interpreter?
+    There will be error of interpreter only python interpreter  understands the python file
+6.	Why do professionals prefer IDEs/editors instead of simple text editors?
+    An IDE is a tools that helps in writing code more easily because it has a lot of features that helps us in writinga code
