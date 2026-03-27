@@ -1,0 +1,196 @@
+✅ 1.1 Introduction to Programming — Review
+Q1: What is programming?
+
+✔ Correct, but improve clarity.
+
+Better answer:
+Programming is a way to give clear, step-by-step instructions to a computer using a programming language so it can solve problems automatically.
+
+Q2: Why can’t a computer work without programming?
+
+✔ Conceptually correct, minor spelling aside.
+
+Correction:
+Computers are dumb machines. They only understand binary (0s and 1s). Without programming, they don’t know what to do or how to do it.
+
+Q3: Input → Process → Output example
+
+✔ Correct idea, but your example is human-based, not ideal for computing.
+
+Better computing example:
+
+Input: User enters numbers in a calculator
+
+Process: Calculator adds the numbers
+
+Output: Sum shown on screen
+
+Your example is acceptable, but always prefer machine examples.
+
+Q4: Algorithm vs Program
+
+✔ Correct.
+
+One small fix:
+
+Algorithm = logic / steps
+
+Program = algorithm written in a programming language
+
+Q5: Online shopping algorithm
+
+⚠️ Weak for advanced level. Too high-level.
+
+Improved algorithm (steps only):
+
+Open shopping website
+
+Login / Sign up
+
+Search for product
+
+Select product
+
+Add to cart
+
+Enter delivery details
+
+Choose payment method
+
+Confirm order
+
+Receive confirmation
+
+This is what examiners and interviewers expect.
+
+Q6: Why logic > languages?
+
+✔ Correct and well explained.
+
+Perfect idea:
+Languages change, logic stays.
+
+✅ 1.2 Installing Python & VS Code — Review
+Q1: Role of Python vs VS Code
+
+✔ Correct.
+
+Q2: Add Python to PATH
+
+✔ Correct, but clarify.
+
+Better:
+PATH allows the terminal and editors to find Python from anywhere in the system.
+
+Q3: Python interpreter & >>>
+
+✔ Mostly correct, but one fix:
+
+Interpreter executes code, not files only.
+
+>>> means Python is ready to accept commands.
+
+Q4: How VS Code executes Python
+
+✔ Correct and clean.
+
+Q5: Wrong Python interpreter problems
+
+⚠️ Incomplete.
+
+Correct answer:
+
+Modules not found
+
+Version conflicts
+
+Code works in one place, fails in another
+
+Not just “interpreter error”.
+
+Q6: Why IDEs over text editors?
+
+✔ Correct idea, but be specific.
+
+Better:
+IDEs provide debugging, autocomplete, error detection, version control, and productivity tools that plain editors lack.
+
+✅ 1.3 First Python Program — Review
+Q1: print() function
+
+✔ Correct.
+
+Q2: Why quotes are mandatory?
+
+✔ Correct.
+
+Q3: Output prediction
+
+✔ Correct.
+
+Q4: Program vs Output
+
+✔ Correct, well stated.
+
+Q5: Program printing info
+
+✔ Correct, but match question.
+
+You missed goal clarity.
+
+Better version:
+
+print("My name is Nadeem Ahmed")
+print("My goal is to become an AI/ML Engineer")
+print("I chose AI because it is the future of technology")
+
+Q6: Execution order
+
+⚠️ Needs correction.
+
+Your answer:
+
+“executed at once or interpreted line by line”
+
+❌ Confusing.
+
+Correct answer:
+Execution order is critical because Python runs code line by line from top to bottom, and later lines often depend on earlier ones.
+
+✅ 1.4 Python Syntax — Review
+Q1: Indentation
+
+✔ Correct.
+
+Q2: Python instead of { }
+
+✔ Correct.
+
+Q3: Will the code run?
+
+✔ Correct answer and output is right.
+
+Good.
+
+Q4: Whitespace vs Indentation
+
+⚠️ Partially incorrect.
+
+Correction:
+
+Whitespace = spaces, tabs, new lines (general spacing)
+
+Indentation = structured whitespace at the beginning of a line to define code blocks
+
+Whitespace ≠ single space only.
+
+Q5: Clean code rewrite
+
+✔ Perfect.
+
+Q6: Why comments matter in AI/ML
+
+✔ Correct, just tighten language.
+
+Better:
+AI/ML projects are long, complex, and collaborative. Comments help future debugging, model understanding, and teamwork.

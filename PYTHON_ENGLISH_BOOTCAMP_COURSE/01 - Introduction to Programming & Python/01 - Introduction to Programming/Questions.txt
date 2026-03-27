@@ -1,0 +1,24 @@
+Basic (Foundation)
+1.	What is programming in your own words?
+    Programming is a way to communicate with computers using a particular programming language
+2.	Why can’t a computer work without programming?
+    Computer is a dumb machine. Computers can’t work without programming because they work on 0s abd 1s
+
+Intermediate (Understanding)
+3.	Explain input → process → output with a real-life example.
+    Input: A child listens some words
+    Process: His brain process and Understands these words
+    Output: After some time he speaks these words
+4.	What is the difference between an algorithm and a program?
+    Algorithum: Step by Step a way to solve a problem
+    Program: Write that Solution in a particular programming language
+
+Advanced (Thinking Like a Programmer)
+5.	Write an algorithm (steps only) for an online shopping order process.
+    Go to Website (Amazon)
+    Select a Product
+    Order it 
+    After Process We Will got Product in some days
+6.	Why is programming logic more important than learning many languages?
+    Programming Language is just a Grammer while the logic is the main step of solving problems no matter which language we are using 
+
