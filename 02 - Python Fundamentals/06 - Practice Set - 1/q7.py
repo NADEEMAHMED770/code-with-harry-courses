@@ -1,0 +1,1 @@
+print('Harray said, "Python is Awesome!"\nThis is on new Line.\nThis is tab ->\t<-here')

@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+age = int(input("Enter your age: "))
+height = float(input("Enter your height in cm: "))
+isStudent = bool(input("Are you a student? (yes=1/no=0): "))
+print(f"Name: {name} \nAge: {age} \nHeight: {height} cm \nStudent: {isStudent}")
